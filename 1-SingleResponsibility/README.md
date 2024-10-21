@@ -5,7 +5,7 @@
 We have a class called `Book` whihc have the properties of the book, you need to create a solution to calculate the `taxRate` and the `total price`, and then print the data of the book after make your calculations.
 
 ## Without (SRP)
-    ```java
+    ```Java
     public class Book {
         public String title;
         public String author;
@@ -56,8 +56,7 @@ In this approach, you can see that the second class `Invoice` has 2 responsibili
 
 
 ## With (SRP)
-    ```java
-
+    ```Java
     public class Book {
         public String title;
         public String author;
