@@ -1,6 +1,5 @@
 public class Customer {
-    @SuppressWarnings("unused")
-    private String name;
+    @SuppressWarnings("unused") String name;
 
     @SuppressWarnings("unused")
     private String email;
