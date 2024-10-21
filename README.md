@@ -17,7 +17,7 @@ This repository aims to provide a comprehensive guide, examples, and best practi
 
 ## SOLID Principles
 
-***SOLID is an acronym that stands for:**
+**SOLID is an acronym that stands for:**
 
 1. Single Responsibility Principle (SRP)
 
